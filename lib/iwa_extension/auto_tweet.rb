@@ -22,15 +22,12 @@ module IwaExtension
 
     def post_tweet!
       url = Rails.application.routes.url_helpers.blog_post_url(self)
-      # begin
-        puts "SHOULD TWEET"
+      begin
         ::IwaExtension::Tweeter.post_tweet_message(title, url)
-        puts "TWEETED"
         self.tweeted = true
         self.save
-        puts "SAVED"
-      # rescue
-      # end
+      rescue
+      end
     end
   end
 end
