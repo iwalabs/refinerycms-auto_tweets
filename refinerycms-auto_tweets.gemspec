@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.name              = 'refinerycms-auto_tweets'
-  s.version           = '1.0'
+  s.version           = '0.1'
   s.description       = 'Ruby on Rails Auto Tweets engine for Refinery CMS'
   s.date              = '2012-04-30'
   s.summary           = 'Auto Tweets engine for Refinery CMS'
