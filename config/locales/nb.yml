@@ -1,0 +1,21 @@
+nb:
+  plugins:
+    auto_tweets:
+      title: Auto Tweets
+  admin:
+    auto_tweets:
+      actions:
+        create_new: Lag en ny Auto Tweet
+        reorder: Endre rekkefølgen på Auto Tweets
+        reorder_done: Ferdig å endre rekkefølgen Auto Tweets
+      records:
+        title: Auto Tweets
+        sorry_no_results: Beklager! Vi fant ikke noen resultater.
+        no_items_yet: Det er ingen Auto Tweets enda. Klikk på "Lag en ny Auto Tweet" for å legge til din første auto tweet.
+      auto_tweet:
+        view_live_html: Vis hvordan denne auto tweet ser ut offentlig <br/><em>(åpner i et nytt vindu)</em>
+        edit: Rediger denne auto tweet
+        delete: Fjern denne auto tweet permanent
+  auto_tweets:
+    show:
+      other: Andre Auto Tweets

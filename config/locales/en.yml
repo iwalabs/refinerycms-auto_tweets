@@ -1,0 +1,13 @@
+en:
+  shared:
+    admin:
+      image_picker:
+        image: image
+  plugins:
+    auto_tweets:
+      title: Auto Tweets
+  admin:
+    blog:
+      posts:
+        form:
+          post_tweet: Post Tweet

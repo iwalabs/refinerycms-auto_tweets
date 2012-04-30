@@ -1,0 +1,25 @@
+lolcat:
+  shared:
+    admin:
+      image_picker:
+        image: IMAGE
+  plugins:
+    auto_tweets:
+      title: Auto Tweets
+  admin:
+    auto_tweets:
+      actions:
+        create_new: CREATE NEW Auto Tweet
+        reorder: REORDR Auto Tweets
+        reorder_done: DUN REORDERIN Auto Tweets
+      records:
+        title: Auto Tweets
+        sorry_no_results: SRY! THAR R NO RESULTS FINDZ.
+        no_items_yet: THAR R NO Auto Tweets YET. CLICK "CREATE NEW Auto Tweet" 2 ADD UR FURST auto tweet.
+      auto_tweet:
+        view_live_html: VIEW DIS auto tweet LIV <BR/><EM>(OPENS IN NEW WINDOW)</EM>
+        edit: EDIT DIS auto tweet
+        delete: REMOOV DIS auto tweet FOREVR
+  auto_tweets:
+    show:
+      other: OTHR Auto Tweets

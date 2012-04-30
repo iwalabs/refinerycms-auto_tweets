@@ -1,0 +1,25 @@
+fr:
+  shared:
+    admin:
+      image_picker:
+        image: image
+  plugins:
+    auto_tweets:
+      title: Auto Tweets
+  admin:
+    auto_tweets:
+      actions:
+        create_new: Créer un(e) nouve(au/l/lle) Auto Tweet
+        reorder: Réordonner les Auto Tweets
+        reorder_done: Fin de réordonnancement des Auto Tweets
+      records:
+        title: Auto Tweets
+        sorry_no_results: "Désolé ! Aucun résultat."
+        no_items_yet: 'Il n''y a actuellement aucun(e) Auto Tweet. Cliquer sur "Créer un(e) nouve(au/l/lle) Auto Tweet" pour créer votre premi(er/ère) auto tweet.'
+      auto_tweet:
+        view_live_html: Voir ce(t/tte) auto tweet <br/><em>(Ouvre une nouvelle fenêtre)</em>
+        edit: Modifier ce(t/tte) auto tweet
+        delete: Supprimer définitivement ce(t/tte) auto tweet
+  auto_tweets:
+    show:
+      other: Autres Auto Tweets

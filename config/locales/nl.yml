@@ -1,0 +1,21 @@
+nl:
+  plugins:
+    auto_tweets:
+      title: Auto Tweets
+  admin:
+    auto_tweets:
+      actions:
+        create_new: Maak een nieuwe Auto Tweet
+        reorder: Wijzig de volgorde van de Auto Tweets
+        reorder_done: Klaar met het wijzingen van de volgorde van de Auto Tweets
+      records:
+        title: Auto Tweets
+        sorry_no_results: Helaas! Er zijn geen resultaten gevonden.
+        no_items_yet: Er zijn nog geen Auto Tweets. Druk op 'Maak een nieuwe Auto Tweet' om de eerste aan te maken.
+      auto_tweet:
+        view_live_html: Bekijk deze auto tweet op de website <br/><em>(opent een nieuw venster)</em>
+        edit: Bewerk deze auto tweet
+        delete: Verwijder deze auto tweet voor eeuwig
+  auto_tweets:
+    show:
+      other: Andere Auto Tweets
