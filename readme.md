@@ -2,9 +2,9 @@
 
 ## Installing
 
-Add refinery-auto_tweets to your Gemfile
+Add refinerycms-auto_tweets to your Gemfile
 
-    gem 'refinery-auto_tweets', :git => 'git://github.com/iwalabs/refinery-auto_tweets.git'
+    gem 'refinerycms-auto_tweets', :git => 'git://github.com/iwalabs/refinerycms-auto_tweets.git'
 
 Run generator
 
