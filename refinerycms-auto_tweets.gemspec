@@ -9,6 +9,6 @@ Gem::Specification.new do |s|
   s.require_paths     = %w(lib)
   s.files             = Dir['lib/**/*', 'config/**/*', 'app/**/*']
 
-  s.add_dependency    'refinerycms-blog',   '~> 1.7.0'
+  s.add_dependency    'refinerycms-blog', '>1.7.0'
   s.add_dependency    'twitter'
 end
